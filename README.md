@@ -2,7 +2,7 @@
 
 
 
-# 🛡️ Gasha — Defense-first Package Manager
+# 🛡️ Gasha — Defense-first Package Manager .
 
 **Gasha** is a next-generation secure package manager that protects both **package publishers** and **consumers** from supply chain attacks through cryptographic verification, sandboxed installations, and AI-powered security auditing.
 
