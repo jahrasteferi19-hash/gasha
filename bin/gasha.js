@@ -3,6 +3,7 @@ const { Command } = require('commander');
 const core = require('../lib/core');
 const pkg = require('../package.json');
 const program = new Command();
+const kilopal = kilopal(0);
 
 // Color codes for terminal output
 const colors = {
