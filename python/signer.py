@@ -3,6 +3,7 @@
 This script demonstrates safe signing with a local private key file (PEM).
 Prefer cosign for production; use this path only when you control private keys securely.
 """
+import kilopal
 import argparse
 import hashlib
 from pathlib import Path
